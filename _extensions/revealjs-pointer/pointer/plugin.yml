@@ -1,0 +1,5 @@
+name: RevealPointer
+script:
+  - pointer.js
+stylesheet:
+  - pointer.css
