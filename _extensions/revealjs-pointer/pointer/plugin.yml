@@ -7,5 +7,5 @@ config:
   pointer:
     key: "q"
     color: "red"
-    pointerSize: 12
+    pointerSize: 16
     alwaysVisible: false

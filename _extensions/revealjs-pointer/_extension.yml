@@ -1,6 +1,6 @@
-title: RevealJS-Pointer
+title: Pointer
 author: Charles Teague
-version: 0.9.0
+version: 0.9.1
 contributes:
   revealjs-plugins:
     - pointer
