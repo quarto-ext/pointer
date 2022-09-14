@@ -9,4 +9,3 @@ config:
     color: "red"
     pointerSize: 12
     alwaysVisible: false
-    tailSize: 50
