@@ -2,6 +2,8 @@
 
 A very simple RevealJS plugin extension that adds support for switching the cursor to a 'pointer' style element while presenting.
 
+:warning: Requires Quarto Version 1.2.124 or later :warning:
+
 ## Installation
 
 ```
@@ -28,21 +30,12 @@ By default, you can activate the pointer mode by pressing the 'q' key while view
 
 You can control the color and appearance of the pointer by passing some additional options under a `pointer` key. 
 
-```key```
-
-What key should be used to activate and deactivate the pointer. Defaults to `q`.
-
-```color```
-
-A CSS color name that provides the color used when the pointer is activated. Defaults to `red`.
-
-```pointerSize```
-
-The size of the pointer in pixels (please do not include units). Defaults to `16`.
-
-```alwaysVisible```
-
-Whether the pointer should always be visible, or disappear after it stops moving for a moment. Defaults to 'false'.
+| Option | Description |
+| --- | --- |
+| ```key``` |  What key should be used to activate and deactivate the pointer. Defaults to `q`. |
+| ```color``` | A CSS color name that provides the color used when the pointer is activated. Defaults to `red`. |
+| ```pointerSize``` | The size of the pointer in pixels (please do not include units). Defaults to `16`. |
+| ```alwaysVisible``` | Whether the pointer should always be visible, or disappear after it stops moving for a moment. Defaults to 'false'. |
 
 
 
