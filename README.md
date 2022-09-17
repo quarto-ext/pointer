@@ -37,8 +37,9 @@ You can control the color and appearance of the pointer by passing some addition
 | ```pointerSize``` | The size of the pointer in pixels (please do not include units). Defaults to `16`. |
 | ```alwaysVisible``` | Whether the pointer should always be visible, or disappear after it stops moving for a moment. Defaults to 'false'. |
 
+## Example
 
-
+View an example presentation at <https://dragonstyle.github.io/pointer/>. Use the 'q' to enable and disable the pointer.
 
 
 
