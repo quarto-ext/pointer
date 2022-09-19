@@ -39,7 +39,7 @@ You can control the color and appearance of the pointer by passing some addition
 
 ## Example
 
-View an example presentation at <https://dragonstyle.github.io/pointer/>. Use the 'q' to enable and disable the pointer.
+View an example presentation at <https://quarto-ext.github.io/pointer/>. Use the 'q' to enable and disable the pointer.
 
 
 
