@@ -85,3 +85,7 @@ plt.show()
 ::: footer
 Learn more: [Line Highlighting](https://quarto.org/docs/presentations/revealjs/#line-highlighting)
 :::
+
+## Pointer on top of figure
+
+![Example](https://quarto.org/docs/authoring/images/knitr-layout-complex.png)
