@@ -4,4 +4,12 @@ version: 0.1.0
 quarto-required: ">=1.2.124"
 contributes:
   revealjs-plugins:
-    - pointer-plugin
+    - name: RevealPointer
+      script: pointer.js
+      stylesheet: pointer.css
+      config:
+        pointer:
+          key: "q"
+          color: "red"
+          pointerSize: 16
+          alwaysVisible: false
