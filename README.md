@@ -20,6 +20,8 @@ Simply add the extension to the list of reveal plugins like:
 title: My Presentation
 format:
     revealjs: default
+    pointer:
+      - # set pointer configuration options here
 revealjs-plugins:
   - pointer
 ```
