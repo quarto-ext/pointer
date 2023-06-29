@@ -7,7 +7,7 @@ A very simple RevealJS plugin extension that adds support for switching the curs
 ## Installation
 
 ```
-$ quarto install extension quarto-ext/pointer
+$ quarto add quarto-ext/pointer
 ```
 
 This will install the extension under the `_extensions` subdirectory. If you're using version control, you will want to check in this directory.
